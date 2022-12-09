@@ -1,1 +1,3 @@
-# traffic-light-using-arduino
+# traffic-light-using-arduino 
+
+A traffic light using arduino in proteus
